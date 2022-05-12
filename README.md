@@ -65,7 +65,7 @@ I-am-vishalmaurya@github
 </p>
 
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 
 |                                                                     Vishal's Stats                                                                     |
@@ -101,3 +101,4 @@ I-am-vishalmaurya@github
 Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
 
 
+ -->
