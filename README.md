@@ -67,16 +67,17 @@ Sandross@github
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Sandro's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Sandro's Github Graph](https://activity-graph.herokuapp.com/graph?username=Sandross&theme=react-dark&hide_border=true&area=true) |
 | ![Sandro's github Stats](https://github-readme-stats.vercel.app/api?username=Sandross&show_icons=true&theme=algolia)              | 
-| ![Sandro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandross&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)                    | 
+| ![Sandro's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sandross&date_format=M%20j%5B%2C%20Y%5D)]                   | 
     
 
 |                                                                                                      Sandro's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/apiSandrossmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/apiSandrossmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandross&layout=compact)](https://github.com/Sandross/github-readme-stats)
+ |
 
 
 
