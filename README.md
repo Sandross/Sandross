@@ -76,7 +76,7 @@ Sandross@github
 
 |                                                                                                      Sandro's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-[![Sandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandross)](https://github.com/Sandross/github-readme-stats)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandross&layout=compact)](https://github.com/Sandross/github-readme-stats)
+[![Sandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandross)](https://github.com/Sandross/github-readme-stats)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandross&layout=compact)]
  
 
 
