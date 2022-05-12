@@ -14,7 +14,7 @@ Hi, I'm Sandro!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+Sandross@github
 -------------------------
 💻 I'm a web development student
 📚 I'm currently studying Web Development at Trybe
