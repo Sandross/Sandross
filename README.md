@@ -2,12 +2,11 @@
 Hi, I'm Sandro!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
@@ -32,12 +31,12 @@ Sandross@github
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="TYPESCRIPT" src="https://img.shields.io/badge/-TYPESCRIPT-yellow"></a>
+    <a><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
+    <a><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+     <a><img alt="TYPESCRIPT" src="https://img.shields.io/badge/-TYPESCRIPT-yellow"></a>
 
 ### 🧰 Frameworks and Libraries
 
