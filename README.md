@@ -97,6 +97,8 @@ Sandross@github
   </tr>
 </table>
 
+📫 Reach me out!
+sandrosalasfilho3@gmail.com
 ------
 
 
