@@ -15,8 +15,8 @@ Hi, I'm Sandro!
 ```
 Sandross@github
 -------------------------
-💻 I'm a web development student
-📚 I'm currently studying Web Development at Trybe
+💻 I'm a Software Engineer
+📚 I'm currently working as Software Developer for RadarFit
 📝 I have a strong interest in Web Development, Programming Algorithms and Logic 
 🌱 Learning about Back-End
 🌟 Main language: JavaScript
