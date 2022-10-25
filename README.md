@@ -20,7 +20,7 @@ Sandross@github
 📝 I have a strong interest in Web Development, Programming Algorithms and Logic 
 🌱 Learning about Back-End
 🌟 Main language: JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
+🚩 Interested in Full Stack Development, Machine Learning and Application development
 🎵 Love indie, jazz and soft music
 ```
 <hr>
