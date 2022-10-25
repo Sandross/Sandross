@@ -71,6 +71,11 @@ Sandross@github
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
+## 🛠️ Databases
+<a href="#"><img alt="MONGO" src="https://img.shields.io/badge/MONGODB%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="MYMYSQL" src="https://img.shields.io/badge/MYSQL%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="POSTGRE" src="https://img.shields.io/badge/POSTGRESQL%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+
 
 ## GitHub Stats
 
