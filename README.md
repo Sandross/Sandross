@@ -16,7 +16,7 @@ Hi, I'm Sandro!
 Sandross@github
 -------------------------
 💻 I'm a Software Engineer
-📚 I'm currently working as Software Developer for RadarFit
+📚 I'm currently working as a Software Developer for RadarFit
 📝 I have a strong interest in Web Development, Programming Algorithms and Logic 
 🌱 Learning about Back-End
 🌟 Main language: JavaScript
