@@ -46,6 +46,7 @@ Sandross@github
 <p>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+     <a><img alt="NEST" src="https://img.shields.io/badge/NEST%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
 
 </p>
@@ -59,6 +60,10 @@ Sandross@github
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
+
+## 🧰 ORM
+<a href="#"><img alt="TYPEORM" src="https://img.shields.io/badge/TYPEORM%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+<a href="#"><img alt="SEQUELIZE" src="https://img.shields.io/badge/SEQUELIZE%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
 
 ### 👨🏽‍💻 Workspace
 <p>
